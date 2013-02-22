@@ -19,7 +19,7 @@ Microquadcopters are interesting because of both their size and potential low co
 This isn't a complete list, but it's a solid roundup.
 
 * [Syma X1](http://www.amazon.com/gp/product/B0096SJU3U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0096SJU3U&linkCode=as2&tag=postneo-20) looks awesome but I haven't played with one yet.  It's super cheap at about $36.
-* [Parrot AR Drone](http://ardrone2.parrot.com/) [About $299 at Amazon](http://www.amazon.com/gp/product/B007HZLLPY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007HZLLPY&linkCode=as2&tag=postneo-20)
+* The [Parrot AR Drone](http://ardrone2.parrot.com/) is [about $299 at Amazon](http://www.amazon.com/gp/product/B007HZLLPY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007HZLLPY&linkCode=as2&tag=postneo-20)
 * [ArduCopter](https://code.google.com/p/arducopter/wiki/Purchase) is $600-800 assembled, and $440-550 in kit form.
 * [Crazyflie Nano](http://wiki.bitcraze.se/projects:crazyflie:index) is super tiny and [$150 to $173 in kit form](http://www.seeedstudio.com/depot/bitcraze-m-64.html)
 * The [HeliMax 1SQ](http://www.helimax-rc.com/helicopters/hmxe0834-1sq/index.html) is [About $100 at Amazon](http://www.amazon.com/gp/product/B009ZVG3QA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009ZVG3QA&linkCode=as2&tag=postneo-20).
