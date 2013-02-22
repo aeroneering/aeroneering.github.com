@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tags: quadcopters
 ---
 We watched several videos from the [Flying Machine Arena](http://www.flyingmachinearena.org/) last night.  This is a fantastic series of projects by the [Institute for Dynamic Systems and Controls](http://www.idsc.ethz.ch/) at ETH Zurich.
