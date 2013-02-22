@@ -2,9 +2,10 @@
 layout: default
 title: Aeroneering
 ---
-<article>
-	<h3>Entries</h3>
-	{% for post in site.posts %}
-		<li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
-</article>
+<h3>Entries</h3>
+<div class="container">
+{% for post in site.posts %}
+	<li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+<p></p>
+</div>

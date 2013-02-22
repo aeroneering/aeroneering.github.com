@@ -4,18 +4,48 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | aeroneering</title>
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <!-- Leave gray fixed footer out for now. -->
+    <!-- <link href="/css/footer.css" rel="stylesheet"> -->
+    <!--[if lt IE 9]>
+        <script src="../assets/js/html5shiv.js"></script>
+    <![endif]-->
 </head>
 <body>
-<header>
-    <h1>Aeroneering</h1>
-</header>
+
+    <div class="navbar navbar-inverse navbar-static-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">Aeroneering</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="https://github.com/aeroneering/aeroneering.github.com">GitHub</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+<div id="wrap">
+    <div class="container">
+        <div class="page-header">
+            <h1>Aeroneering</h1>
+        </div>
+        {{ content }}
+    </div>
+    <div id="footer">
+        <div class="container">
+            <p class="muted">Copyright 2013 Matt Croydon.  All content and code released under <a href="https://github.com/aeroneering/aeroneering.github.com/blob/master/LICENSE">a BSD-style license</a> unless otherwise specified.  <a href="https://github.com/aeroneering/aeroneering.github.com">Fork it on GitHub</a>.</p>
+        </div>
+    </div>
+</div>
 <script src="http://code.jquery.com/jquery.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
-{{ content }}
-    
-    <footer>
-        <p>Copyright 2013 Matt Croydon.  All content and code released under <a href="https://github.com/aeroneering/aeroneering.github.com/blob/master/LICENSE">a BSD-style license</a> unless otherwise specified.  <a href="https://github.com/aeroneering/aeroneering.github.com">Fork it on GitHub</a>.</p>
-    </footer>
+<script src="/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
