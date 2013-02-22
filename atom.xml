@@ -7,7 +7,7 @@ layout: nil
 <link href="http://aeroneering.github.com/atom.xml" rel="self" />
 <link href="http://aeroneering.github.com/" />
 <updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>http://aeroneering.github.com/<id>
+<id>http://aeroneering.github.com/</id>
 <author>
     <name>Matt Croydon</name>
     <email>mcroydon@gmail.com</email>
@@ -18,7 +18,7 @@ layout: nil
     <title>{{ post.title }}</title>
     <link href="http://aeroneering.github.com{{ post.url }}" />
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://aeroneering.github.com/{{ post.id }}</id>
+    <id>http://aeroneering.github.com{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
 </entry>
 {% endfor %} 
