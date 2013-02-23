@@ -12,7 +12,9 @@ These smart quadcopters captured our imagination and while the problems at hand 
 
 ### Microquadcopters
 
-Microquadcopters are interesting because of both their size and potential low cost.  Currently the [Syma X1](http://www.amazon.com/gp/product/B0096SJU3U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0096SJU3U&linkCode=as2&tag=postneo-20) looks like it's leading the pack at about $36 for a microquadcopter and a 2.4 ghz remote control.  This looks like a ton of quadcopter for the dollar.  It would be interesting to see if this device could be combined with a more autonomous control system like [ArduCopter](https://code.google.com/p/arducopter/wiki/ArduCopter).  I'd also be curious what the per-unit cost of one of the Flying Machine Arena quads is and what it could be in volume.
+Microquadcopters are interesting because of both their size and potential low cost.  Currently the [Syma X1](http://www.amazon.com/gp/product/B0096SJU3U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0096SJU3U&linkCode=as2&tag=postneo-20) looks like it's leading the pack at about $36 for a microquadcopter and a 2.4 ghz remote control.  This looks like a ton of quadcopter for the dollar.  A [detailed forum post on rcgroups](http://www.rcgroups.com/forums/showthread.php?t=1797545) has a lot of information.  [Another rcgroups post](http://www.rcgroups.com/forums/showthread.php?t=1626362) and [an open source wireless firmware called deviation](https://bitbucket.org/PhracturedBlue/deviation/overview) document the 2.4GHz wireless protocol used by the transmitter to the X1.
+
+It would be interesting to see if this device could be combined with a more autonomous control system like [ArduCopter](https://code.google.com/p/arducopter/wiki/ArduCopter).  I'd also be curious what the per-unit cost of one of the Flying Machine Arena quads is and what it could be in volume.
 
 ### Quadcopters you can buy
 
