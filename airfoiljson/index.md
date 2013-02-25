@@ -167,7 +167,7 @@ The normalization of AirfoilJSON to the Selig format is motivated by "Selig's x-
   * Consider how to translate "......" number as found in naca4418.dat.
   * This list of coordinate objects, each with an x and y member becomes the coordinate member.
 
-### Appendix: Design notes and outstanding questions ###
+### Appendix: Considerations for future revisions ###
 
 * Consider optional filename to tie back to UIUC database.  Or when needed just name filename.json instead of filename.dat.
 * Consider using [JSON Hypertext Application Language](http://tools.ietf.org/id/draft-kelly-json-hal-05.txt) or a similar format for creating links back to UIUC or elsewhere, thereby promoting [HATEOAS](http://en.wikipedia.org/wiki/HATEOAS).
