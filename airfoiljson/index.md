@@ -3,7 +3,7 @@ layout: page
 title: AirfoilJSON *DRAFT* Specification
 ---
 
-AirfoilJSON is a format based on JavaScript Object Notation (JSON) that aims to faithfully represent the information contained in a [UIUC airfoil data file](http://www.ae.illinois.edu/m-selig/ads.html).  You can think of it as "[GeoJSON](http://www.geojson.org/) for airfoils".  An AirfoilJSON object must also be a valid JSON object.  It is possible that a web service might return a list of AirfoilJSON objects.
+AirfoilJSON is a format based on JavaScript Object Notation (JSON) that aims to faithfully represent the information contained in a [UIUC airfoil data file](http://www.ae.illinois.edu/m-selig/ads.html).  You can think of it as "[GeoJSON](http://www.geojson.org/) for airfoils".  An AirfoilJSON object must also be a valid JSON object.
 
 ### Examples ###
 
