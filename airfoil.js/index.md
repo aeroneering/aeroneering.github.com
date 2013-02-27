@@ -2,8 +2,6 @@
 layout: page
 title: airfoil.js
 ---
-
-
 <!-- <script type="text/javascript" src="./airfoil.js"> -->
 <!-- http://jsfiddle.net/Q4Mfc/1/ -->
 <script type="text/javascript">
@@ -35,7 +33,8 @@ $(document).ready(function() {
 			})
 			.y(function(d) {
 				return yScale(d["y"]);
-			});
+			})
+			.interpolate("basis");
 
 		d3.select("#airfoil")
 			.append("svg")
@@ -43,7 +42,6 @@ $(document).ready(function() {
 			.attr("height", height)
 			.attr("id", "airfoilsvg")
 			.append("g")
-			.attr("transform", "translate(5,5)")
 			.append("svg:path")
 			.datum(data.coordinates)
 			.attr("class", "line")
@@ -55,3 +53,5 @@ $(document).ready(function() {
 });
 
 </script>
+
+An experiment in rendering an airfoil with [D3](http://d3js.org/) using [AirfoilJSON](/airfoiljson/).  Airfoil converted by hand from the [UIUC Airfoil Coordinates Database](http://www.ae.illinois.edu/m-selig/ads/coord_database.html).  You can view the [original data file](http://www.ae.illinois.edu/m-selig/ads/coord/naca2412.dat) or the [AirfoilJSON conversion](/airfoil.js/naca2412.json).
