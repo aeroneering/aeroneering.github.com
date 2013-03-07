@@ -1,0 +1,34 @@
+---
+layout: post
+title: Dear Aerospace Engineers: Challenge the Status Quo
+---
+
+One of my goals is to learn just enough about aerospace engineering to turn my thoughts in to something tangible (even if virtually so).  One thing I feel the need to constantly fight off while learning is the aerospace engineering status quo.  It's sneaky, but it's everywhere.  I was watching a lecture on [Moments and Longitudinal static stablility](http://ocw.tudelft.nl/courses/aerospace-engineering/introduction-to-aerospace-engineering-i/lectures/moments-longitudinal-static-stablility/) yesterday and the assumptions were being thrown around left and right.  You're going to have a main wing.  You're going to have a horizontal stabalizer, at the back of the plane, and it's not going to have any camber because that's what everyone does and oh look it makes the equation easier too!
+
+### Reinforcing the Status Quo
+
+I know that this is an introductory course and that for all practical purposes, most aircraft these students will be working on, designing, or modifying, will look pretty much like that.  My concern is that the system that is educating the nexte generation of aerospace engineers is subtly and unconciously tainting creativity and innovation.
+
+Yes, I know that we've generally arrived at monoplanes that look the way they do because it works.  It's efficient enough, and it gets the job done.  Engineers are used to them and consumers are used to them.  The basic monoplane design has had a lot of refinement.  And I believe that there is genuinely impressive innovation still going on with the basic design.  The [Cirrus Design Wing](http://whycirrus.com/engineering/stall-spin.aspx) is a functional thing of beauty.  Much thought has gone in to the [blended design of the Lancair Evolution](http://www.flyingmag.com/aircraft/turboprops/lancair-evolution) wing as well to have the right combination of speed, performance, and stall characteristics.
+
+There is innovation all over the place, but for the most part it's innovating on the standard monoplane design.  Part of me wonders if we're micro-optimizing too many things, and yes we are approaching new local minima and maxia as we do so.  But are we missing larger gains by focusing so intently on what we've agreed upon an airplane should look like?  Are we afraid to think outside the box because we're afraid that won't sell units?  There's certainly enough anecdotal evidence to be concerned.
+
+### Did you say Rutan?
+
+However I think really thinking outside the box is the ony way we are going to push aircraft design and performance forward significantly.  Of course whenever I think of aviation and outside the box, I think of [Burt Rutan](http://en.wikipedia.org/wiki/Burt_Rutan).  His designs are truly unique and inspiring.  Each of his designs is full of things to learn from and concepts to explore.  Take the [Rutan Quickie](http://en.wikipedia.org/wiki/Rutan_Quickie) for instance.  Its [canard](http://en.wikipedia.org/wiki/Canard_(aeronautics)) with smaller main wing means that both surfaces are constnatly producing positive lift.  Compare that with the traditional horizontal stabalizer which is usually just along for the ride.  The Quickie design has had its influence on others such as the Dragonfly, but like most Rutan designs, the out of the box design concepts could use more exploration.
+
+I'm not saying that the answer is to go out and pick a Rutan design and copy it.  What you should do though is take a look at some of his designs.  Pick a favorite.  Think about the main part of the design that makes it unique.  That's usually the first thing that people notice, talk about, and use to classify an aircraft.  After you've considered the obvious, go back and take a look at other details of the aircraft.  There's lots of innovation all over.  I'm talking about things like the main gear on the tips of the canard on the Quickie, the various landing gear configurations of the VariEze and Long-EZ and friends.  The innovation in composite process of the Beechcraft Starship.
+
+### The Past and The Future
+
+We shouldn't cast aside history either.  Far too many people have given their lives teaching us which design elements work, and which don't.  We have learned that unless maneuverability is more important than anything else, a stable aircraft is (shockingly) easier to fly than an unstable one.  We need to not forget these things, but we need to push forward in more directions as well.
+
+We also have an impressive array of tools available for our safety once we move to full-scale designs.  I often wonder what the safety record of the [Cirrus VK-30](http://en.wikipedia.org/wiki/Cirrus_VK-30) would be like if pilots would have had access to a ballistic recovery system whie testing its aft CG limits.
+
+Interestingly enough, it seems like some of the most innovative aerospace design is coming from the UAV and drone sector.  Perhaps it is because they have fewer constraints of holding a certain volume of person in a particular configuration.  Things like the inverted V-Tail on the Predator and the flying wing of the Phantom Ray jump out as different than the tube + wing + tail that we've come to expect from modern aircraft, both GA and commercial.
+
+I think between modern technology and computer simulation we have the ability today to be more bold in our deisgns.  We can prove out initial designs in a simulation long before building an airfoil to test in a wind tunnel or building a scale model only to find out how unstable it is.  We can also make use of genetic programming and our ever expanding computational capabilities to throw more spaghetti against the wall and see what sticks.  We also have the ability to go from idea to functioning prototype quicker than ever before.  Just this week, [AgustaWestland unveiled its Project Zero](http://www.verticalmag.com/news/article/AgustaWestland-unveils-Project-Zero-tilt-rotor-technology-de) technology demonstrator that went from concept to flying prototype in only six months.
+
+### No Sacred Cowlings
+
+Here's my advice to anyone getting their feet wet in aerospace engineering: challenge everything.  Think outside the box.  Throw out convention, conventionalal thinking, and the way things have been done before.  Simulate two thousand times, build once.  Listen to the past.  Heed its warnings and learn its lessons, but don't let it drag you down.  Make something different.  Make something you're not sure people will like or understand.  Leverage technology, computing power, new materials, new proesses, and advances in distant but surprisingly applicable fields.  Make something that nobody has seen before, and be proud of it.
