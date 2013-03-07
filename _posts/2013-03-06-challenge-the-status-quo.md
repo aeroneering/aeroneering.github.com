@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear Aerospace Engineers: Challenge the Status Quo
+title: Dear Aerospace Engineers, Please Challenge the Status Quo
 ---
 One of my goals is to learn just enough about aerospace engineering to turn my thoughts in to something tangible (even if virtually so).  One thing I feel the need to constantly fight off while learning is the aerospace engineering status quo.  It's sneaky, but it's everywhere.  I was watching a lecture on [Moments and Longitudinal static stablility](http://ocw.tudelft.nl/courses/aerospace-engineering/introduction-to-aerospace-engineering-i/lectures/moments-longitudinal-static-stablility/) yesterday and the assumptions were being thrown around left and right.  You're going to have a main wing.  You're going to have a horizontal stabalizer, at the back of the plane, and it's not going to have any camber because that's what everyone does and oh look it makes the equation easier too!
 
