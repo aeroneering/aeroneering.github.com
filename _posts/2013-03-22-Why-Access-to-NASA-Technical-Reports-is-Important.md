@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Why Access To NASA Technical Reports Is Important
 ---
 Earlier this evening I read about NASA [removing all public access to its NASA Technical Reports Server](http://www.space.com/20355-nasa-chinese-spy-reports-database.html) in the wake of the arrest of a former contractor suspected of being a spy.  I was outraged at the sheer amount of technical content that was suddenly wiped from the Internet.  I respect and understand how important it is to restrict access to sensitive information, however I think that shutting down public access to NTRS completely during this investigation is extreme and hurtful to science and learning.
 
