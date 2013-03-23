@@ -20,6 +20,6 @@ I wanted to know a little more though, so I grabbed my ipad typed ["65-110 airfo
 
 Ugh.  This just went from "man that sucks" to "man I can't read something about an airfoil that predates the formation of NASA itself."
 
-Te message isn't particularly comforting either.  How long will NTRS be offline?  How long will it take to review that every document has both been reviewed and doesn't meet the export or regulatory yardstick for exclusion? In light of recent events what percentage of content used to pass this test that now fails?
+The message isn't particularly comforting either.  How long will NTRS be offline?  How long will it take to review that every document has both been reviewed and doesn't meet the export or regulatory yardstick for exclusion? In light of recent events what percentage of content used to pass this test but now fails?
 
 Aside from broken links across the Internet when NTRS does come back online we may never know.
