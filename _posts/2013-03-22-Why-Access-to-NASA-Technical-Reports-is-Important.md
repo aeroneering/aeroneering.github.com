@@ -24,3 +24,5 @@ Ugh.  This just went from "man that sucks" to "man I can't read something about 
 The message isn't particularly comforting either.  How long will NTRS be offline?  How long will it take to review that every document has both been reviewed and doesn't meet the export or regulatory yardstick for exclusion? In light of recent events what percentage of content used to pass this test but now fails?
 
 Aside from broken links across the Internet when NTRS does come back online we may never know.
+
+*Update*: The NTRS is back online but (http://nasawatch.com/archives/2013/06/nasa-technical-1.html)[some older documents! including many from the NACA archives were still under review] as of a few months ago.
