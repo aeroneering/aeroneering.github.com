@@ -25,4 +25,4 @@ The message isn't particularly comforting either.  How long will NTRS be offline
 
 Aside from broken links across the Internet when NTRS does come back online we may never know.
 
-*Update*: The NTRS is back online but [http://nasawatch.com/archives/2013/06/nasa-technical-1.html](some older documents! including many from the NACA archives were still under review) as of a few months ago.
+*Update*: The NTRS is back online but [some older documents including many from the NACA archives were still under review](http://nasawatch.com/archives/2013/06/nasa-technical-1.html) as of a few months ago.
