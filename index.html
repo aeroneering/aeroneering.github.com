@@ -7,7 +7,7 @@ title: Aeroneering
 {% for post in site.posts %}
 	<li>
             <h4>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></h4>
-            <p>{{ post.excerpt }}</p>
+            <blockquote>{{ post.excerpt }}</blockquote>
             <p><a href="{{ post.url }}">Read more</a></p>
         </li>
 {% endfor %}
